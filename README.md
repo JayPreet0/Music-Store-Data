@@ -5,7 +5,8 @@ Analysis of Music store data and customer spending on each artist, genre in each
 
 Segmented in 3 types, easy, moderate and advanced.
 
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Database and Tools
+------------------
 1) Postgre SQL
 2) PgAdmin4
